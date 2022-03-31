@@ -1,1 +1,2 @@
 # odin-recipes
+    Today, I will be creating a webpage that has links to other recipes. I will be showcasing what I have learned from the previous lessons, which inlcudes, html boilerplates, headings,titles, embed pictures, have alt discription for my pictures, have both absolute and relative links and more. We will also be working with github. practicing our staging/commit/push process. Will be going back to the material until most of it if not all is retained.
